@@ -1,0 +1,39 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  text-align: center;
+}
+
+#tareaForm {
+  display: inline-block;
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+#nuevaTarea {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.id-span {
+    margin-right: 10px; 
+  }
+  
+  .tarea-span {
+    margin:  8px; 
+  }
+  
+  .check-icon,
+  .delete-icon {
+    margin-right: 10px; 
+  }
